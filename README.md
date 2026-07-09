@@ -4,7 +4,7 @@
 
 ## 使用方法
 
-将 [clash_sub.yaml](./clash_sub.yaml) 导入 Clash / Clash Verge / Mihomo 等客户端。
+将 [clash_sub.yaml](https://raw.githubusercontent.com/TopChina/proxy-list/refs/heads/main/clash_sub.yaml) 导入 Clash / Clash Verge / Mihomo 等客户端。
 
 > 代理用户名每小时轮换，订阅文件同步更新，请保持自动更新开启。
 
